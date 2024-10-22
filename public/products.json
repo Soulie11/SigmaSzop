@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Jackson Pro Jeff Loomis Kelly Ash BK",
+    "description": "★★★★★",
+    "price": 6789,
+    "img": "https://fast-images.static-thomann.de/pics/bdb/_48/483928/16170901_800.jpg",
+    "category": "Electric Guitars"
+  },
+  {
+    "id": 2,
+    "name": "Ibanez GRGM21-WH E-Guitar Micro",
+    "description": "★★★☆☆",
+    "price": 888,
+    "img": "https://fast-images.static-thomann.de/pics/bdb/_38/381078/10864452_800.jpg",
+    "category": "Electric Guitars"
+  },
+  {
+    "id": 3,
+    "name": "Ibanez GRG170DX-BKN",
+    "description": "★★★★☆",
+    "price": 1598,
+    "img": "https://fast-images.static-thomann.de/pics/bdb/_16/167572/17365291_800.jpg",
+    "category": "Electric Guitars"
+  },
+  {
+    "id": 4,
+    "name": "Thomann Classic Guitar 3/4",
+    "description": "★★★☆☆",
+    "price": 2400,
+    "img": "https://fast-images.static-thomann.de/pics/bdb/_13/130179/17090458_800.jpg",
+    "category": "Classic Guitars"
+  },
+  {
+    "id": 5,
+    "name": "Thomann Classic Guitar 3/4 Black",
+    "description": "★★★★☆",
+    "price": 1222,
+    "img": "https://fast-images.static-thomann.de/pics/bdb/_33/337486/18130897_800.jpg",
+    "category": "Classic Guitars"
+  },
+  {
+    "id": 6,
+    "name": "Harley Benton GL-2NT Guitarlele",
+    "description": "★★★★★",
+    "price": 549,
+    "img": "https://fast-images.static-thomann.de/pics/bdb/_37/371679/10727402_800.jpg",
+    "category": "Classic Guitars"
+  },
+  {
+    "id": 7,
+    "name": "Harley Benton PB-20 SBK Standard Series",
+    "description": "★★★★★",
+    "price": 1499.99,
+    "img": "https://fast-images.static-thomann.de/pics/bdb/_44/449512/14622783_800.jpg",
+    "category": "Bass Guitars"
+  },
+  {
+    "id": 8,
+    "name": "Ibanez 70th Anniv. GSR200-SV",
+    "description": "★★★☆☆",
+    "price": 1199,
+    "img": "https://fast-images.static-thomann.de/pics/bdb/_58/580128/19370846_800.jpg",
+    "category": "Bass Guitars"
+  },
+  {
+    "id": 9,
+    "name": "Thomann Soprano Ukulele Standard",
+    "description": "★★☆☆☆",
+    "price": 289,
+    "img": "https://sklepakord.pl/media/products/3c366a27ca2880dcf856380c3f9f47e3/images/thumbnail/large_15235033-800.jpeg?lm=1713950883",
+    "category": "Ukulele"
+  },
+  {
+    "id": 10,
+    "name": "Harley Benton Kahuna-C Turtle",
+    "description": "★★★☆☆",
+    "price": 149,
+    "img": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_50/500636/15541690_800.jpg",
+    "category": "Ukulele"
+  }
+]

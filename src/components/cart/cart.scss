@@ -1,0 +1,22 @@
+@import "../../colors.scss";
+
+.app-cart-container {
+  background: $grey;
+  width: 280px;
+  min-height: 340px;
+  position: absolute;
+  right: 20px;
+  top: 120px;
+  border-radius: 6px;
+  padding: 10px;
+  z-index: 1;
+
+  -webkit-box-shadow: 0px 0px 16px -1px rgba(66, 68, 90, 1);
+  -moz-box-shadow: 0px 0px 16px -1px rgba(66, 68, 90, 1);
+  box-shadow: 0px 0px 16px -1px rgba(66, 68, 90, 1);
+
+  .total {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+}

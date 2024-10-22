@@ -1,0 +1,47 @@
+@import "./colors.scss";
+
+.App {
+  background-color: rgb(0, 0, 0);
+}
+
+.container {
+  width: 100%;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.categories {
+  margin: 20px 10px 0;
+  display: flex;
+  justify-content: space-between;
+
+  button {
+    margin: 10px;
+    cursor: pointer;
+    width: 100%;
+    padding: 8px 20px;
+    text-align: center;
+    background: $grey;
+    border: none;
+    color: rgb(0, 0, 0);
+    transition: 0.3s;
+    border-radius: 10px;
+
+    &:hover {
+      background: $darkerGray;
+    }
+  }
+
+  button.active {
+    background: $active;
+    color: $white;
+    -webkit-box-shadow: 0px 0px 57px 8px rgba(58, 58, 58, 1);
+    -moz-box-shadow: 0px 0px 57px 8px rgba(58, 58, 58, 1);
+    box-shadow: 0px 0px 57px 8px rgba(58, 58, 58, 1);
+  }
+}

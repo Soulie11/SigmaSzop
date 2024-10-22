@@ -1,0 +1,24 @@
+@import "../../colors.scss";
+
+.app-header-container {
+  position: relative;
+
+  h1 {
+    color: white;
+  }
+
+  .icon {
+    color: white;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+
+    -webkit-box-shadow: 0px 3px 70px 0px rgba(68, 68, 68, 1);
+    -moz-box-shadow: 0px 3px 70px 0px rgba(68, 68, 68, 1);
+    box-shadow: 0px 3px 70px 0px rgba(68, 68, 68, 1);
+  }
+}
